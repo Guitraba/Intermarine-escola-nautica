@@ -1,0 +1,51 @@
+.Menu {
+  font-family: cursive;
+  border-radius: 50vh;
+  font-family: cursive;
+  margin: 0vh;
+  list-style: none;
+  padding: 1vh 0;
+  justify-content: space-around;
+  display: flex;
+  border: 0.5vh solid #00385e;
+  background-color: #00385e;
+}
+body {
+  background-color: #ddd;
+  margin: 0vh;
+}
+nav ul{
+  color: #ddd;
+}
+a{
+  text-align: center;
+  color: inherit;
+  text-decoration: none;
+}
+form{
+  display: flex;
+  flex-direction: column;
+  max-width: 25vh;
+  margin: auto;
+}
+h2{
+  font-family: cursive;
+  text-align: center;
+} 
+table{
+  margin: auto;
+}
+table, th, td{
+  text-align: center;
+ border: 0.1vh solid #000;
+ justify-content: center;
+}
+h3{
+  font-family: cursive;
+  text-align: center;
+}
+video{
+  display: flex;
+  height: 10vh;
+  width: 10vh;
+}
